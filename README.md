@@ -4,7 +4,7 @@
 
 #### CAMBIOS REALIZADOS DESDE GIT (EJERCICIO 4)
 
-! [confirmar cambios] (LINK)
+! [confirmar cambios] (https://github.com/juanjoamengualfar/hola_mundo/blob/50e36c391223717816954a3b1a24376642b4dd22/Captura%201.PNG)
 
 
 
