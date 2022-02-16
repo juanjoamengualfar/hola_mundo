@@ -2,6 +2,16 @@
 ## Nuevo Repositorio
 ### Hola me llamo Juanjo y estudio DAM en el instituto EDIB
 
+#### CAMBIOS REALIZADOS DESDE GIT (EJERCICIO 4)
+
+! [confirmar cambios] (LINK)
+
+
+
+
+
+
+
 
 #### El primer paso ha sido crear un nuevo repositorio, indicando el nombre del mismo y una breve descripcion
 ##### Antes de crear el repositorio tenemos que decirle a github que añada un readme.md, hecho esto ya podemos crear el repositorio
